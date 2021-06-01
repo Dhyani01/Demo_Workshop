@@ -2,12 +2,12 @@
  
 Three Day Workshop  
 
-## Basics Of Git and GitHub - DAY 1
+* Basics Of Git and GitHub - DAY 1
 
-## Basics Of Python - Day 1
+* Basics Of Python - Day 1
 
-## Introduction to Machine Learning
+* Introduction to Machine Learning
 
-## Stock Price Prediction
+* Stock Price Prediction
 
-## Real Time Animation Analaysis
+* Real Time Animation Analaysis
